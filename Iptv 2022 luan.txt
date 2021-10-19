@@ -1,0 +1,929 @@
+group,EU SWEDEN
+ext,===== SWEDEN =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98086
+ext,===== SW GENERAL =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98087
+ext,SW: CORONA VIRUS INFO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98088
+ext,SW: SVT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98089
+ext,SW: SVT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98090
+ext,SW: TV3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98091
+ext,SW: TV4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98092
+ext,SW: KANAL 5 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98093
+ext,SW: TV 6 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98094
+ext,SW: SJUAN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98095
+ext,SW: TV8 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98096
+ext,SW: KANAL 9 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98097
+ext,SW: TV 10 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98098
+ext,SW: KANAL 11 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98099
+ext,SW: TV 12 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98100
+ext,SW: TV MALMÖ,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98101
+ext,SW: TV4 FAKTA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98102
+ext,SW: TV 4 GULD HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98103
+ext,SW: TV 4 FILM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98104
+ext,SW: BARNEKANALEN,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98105
+ext,SW: H2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98106
+ext,SW: SVT KUNSKAPSKANALEN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98107
+ext,===== SW ENTERTAINMENT =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98108
+ext,SW: MAX HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98109
+ext,SW: FOX TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98110
+ext,SW: TLC HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98111
+ext,SW: ATG LIVE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98112
+ext,SW: COMEDY CENTRAL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98113
+ext,SW: SF-KANALEN [MULTI-SUB],http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98114
+ext,SW: SVT24/B HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98115
+ext,SW: VIASAT EXPLORER FHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98116
+ext,===== SW DOCUMETARY =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98117
+ext,SW: BBC BRIT FHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98118
+ext,SW: BBC EARTH HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98119
+ext,SW: DISCOVERY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98120
+ext,SW: DISCOVERY SCIENCE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98121
+ext,SW: NAT GEO HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98122
+ext,SW: NATIONAL GEOGRAPHIC WILD HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98123
+ext,SW: VIASAT NATURE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98124
+ext,SW: VIASAT HISTORY,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98125
+ext,SW: ID INVESTIGATION DISCOVERY,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98126
+ext,SW: HISTORY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98127
+ext,SW: ANIMAL PLANET HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98128
+ext,SW: DAGENS INDUSTRI TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98129
+ext,===== SW KIDS =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98130
+ext,SW: DISNEY CHANNEL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98131
+ext,SW: DISNEY JUNIOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98132
+ext,SW: BOOMERANG HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98134
+ext,SW: NICK TOONS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98135
+ext,SW: NICK JR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98136
+ext,SW: NICKELODEON HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98137
+ext,SW: CARTOON NETWORK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98138
+ext,===== SW MOVIES =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98139
+ext,SW: VIASAT FILM ACTION,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98140
+ext,SW: VIASAT FILM FAMILLY,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98141
+ext,SW: VIASAT FILM HITS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98142
+ext,SW: VIASAT FILM PREMIERA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98143
+ext,SW: VIASAT SERIES,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98144
+ext,SW: C MORE LIVE 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98145
+ext,SW: C MORE LIVE 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98146
+ext,SW: C MORE LIVE 4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98147
+ext,SW: C MORE LIVE 5 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98148
+ext,SW: C MORE LIVE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98149
+ext,SW: C MORE FIRST HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98150
+ext,SW: C MORE HITS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98151
+ext,SW: C MORE SERIES HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98152
+ext,SW: C MORE STARS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98153
+ext,===== SW MUSIC =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98154
+ext,SW: MTV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98155
+ext,===== SW SPORTS =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98156
+ext,SW: C MORE FOTBOLL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98157
+ext,SW: VIASAT SPORT EXTRA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98158
+ext,SW: C MORE GOLF FHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98159
+ext,SW: C MORE HOCKEY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98160
+ext,SW: EUROSPORT 1 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98161
+ext,SW: EUROSPORT 2 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98162
+ext,SW: VIASAT FOTBOLL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98163
+ext,SW: VIASAT GOLF,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98164
+ext,SW: VIASAT HOCKEY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98165
+ext,SW: VIASAT MOTOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98166
+ext,SW: VIASAT SPORT HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98167
+ext,SW: VIASAT SPORT PREMIUM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98168
+ext,SW: VIASAT ULTRA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98169
+ext,SW: SPORT KANALEN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98170
+ext,SW: STRIVE SPORT SWEDEN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98171
+
+group,EU ALBANIA
+ext,===== ALBANIA =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95884
+ext,ALB: CORONA VIRUS INFO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95885
+ext,ALB: BIG BROTHER VIP 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/145300
+ext,ALB: BIG BROTHER VIP 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/145301
+TopChannelHD.al,ALB: TOP CHANNEL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95886
+ext,ALB: TOP CHANNEL 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95887
+ext,ALB: ATV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/121840
+ext,ALB: KLAN TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95888
+ext,ALB: KLAN 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95889
+ext,ALB: KLAN PLUS 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95890
+ext,ALB: KLAN PLUS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95891
+VizionPlus.al,ALB: VIZION PLUS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95892
+ext,ALB: VIZION PLUS 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95893
+ext,ALB: Kanal 10 FHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/111252
+KlanKosova.al,ALB: KLAN KOSOVA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95894
+ext,ALB: KLAN MACEDONIA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95895
+AlsatM.al,ALB: ALSAT M HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95896
+ext,ALB: ALSAT M,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95897
+ext,ALB: ALB UK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/144819
+ext,ALB: IN TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95898
+ext,ALB: RTSH 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95899
+ext,ALB: RTSH 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95900
+ext,ALB: RTSH 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95901
+ext,ALB: RTSH 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95902
+ext,ALB: RTSH MUZIKE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95903
+ext,ALB: RTSH SHQIP,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95904
+ext,ALB: RTSH GJIROKASTRA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95905
+ext,ALB: RTSH 24 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95906
+ext,ALB: RTSH PLUS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95907
+ext,ALB: RTSH KUVEND,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95908
+ext,ALB: RTSH SPORT HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95909
+RTK.al,ALB: RTK 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95910
+ext,ALB: RTK 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95911
+ext,ALB: RTK 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95912
+ext,ALB: RTK 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95913
+ext,ALB: RTK 4,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95914
+RTV21.al,ALB: RTV21,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95915
+ext,ALB: RTV21 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95916
+ext,ALB: RTV21 MAQEDONIA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95917
+ext,ALB: KTV KOHAVISION,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95918
+ext,ALB: TV DUKAGJINI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95919
+ext,ALB: T7,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95920
+ext,ALB: TV ERA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95921
+ext,ALB: MRT 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95922
+ext,ALB: SHENJA TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95923
+ext,ALB: FIRST TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95924
+ext,ALB: RTV21 MIX,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95925
+ext,ALB: RTV21 PLUS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95926
+ext,ALB: TV KOHA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95928
+ext,ALB: TV CHANNEL SHOKDER,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95929
+ext,ALB: TV MITROVICA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95930
+ext,ALB: SYRI VISION,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95931
+ext,ALB: TV LLAPI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95932
+ext,ALB: BESA TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95933
+ext,ALB: TV GLOBI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95936
+ext,ALB: TV2 GOSTIVAR,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95937
+ext,ALB: STAR PLUS SHKODER HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95939
+ext,ALB: TV KOPLIKU HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95940
+ext,ALB: TV LIRIA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95942
+ext,ALB: TEMA TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95943
+ext,ALB: TV PRESHEVA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/111249
+ext,ALB: RTV FONTANA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/111251
+ext,===== LAJME =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95944
+ext,ALB: TOP NEWS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95945
+ABCNews.al,ALB: ABC NEWS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95946
+ext,ALB: ORA NEWS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95947
+ext,ALB: NEWS 24,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95948
+ext,ALB: FAX NEWS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95949
+ext,ALB: REPORT TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95950
+ext,ALB: A2 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95951
+ext,ALB: KANALI 7,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95952
+ext,ALB: ART CHANNEL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95955
+ext,ALB: EURONEWS ALBANIA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95956
+ext,ALB: SCAN TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95957
+ext,===== FEMIJE =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95958
+ext,ALB: BUBRRECI TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95959
+BangBang.al,ALB: BANG BANG,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95960
+CufoTV.al,ALB: CUFO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95961
+BabyTV.al,ALB: BABY TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95962
+ext,ALB: JUNIOR,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95963
+ext,ALB: TRING KIDS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95964
+TringTring.al,ALB: TRING TRING,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95965
+TipTv.al,ALB: TIP TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95966
+ext,ALB: SOFIA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95967
+ext,ALB: RTV21 JUNIOR,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95970
+ext,ALB: RTSH FEMIJE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95971
+ext,ALB: PJ MASKS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95972
+ext,ALB: BOOMERANG,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95973
+ext,ALB: ART PRINCE KIDS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95974
+ext,ALB: CARTOON NETWORK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95975
+ext,ALB: DRAGON BALL Z HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95976
+ext,ALB: BARBIE TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95977
+ext,ALB: BABY BOX TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95978
+ext,ALB: DUCK TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95979
+ext,ALB: JIM JAM,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95980
+ext,ALB: KIDS BOX,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95981
+ext,ALB: MR BEAN,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95982
+ext,ALB: PERRALLA BOX,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95983
+ext,ALB: KENGE PER FEMIJE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95984
+ext,ALB: NINULLA PER GJUME,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95985
+ext,===== DIGITALB FILM =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95986
+ext,ALB: FILM NJE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95987
+ext,ALB: FILM DY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95988
+FilmAksion.al,ALB: FILM AKSION,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95989
+FilmHits.al,ALB: FILM HITS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95990
+FilmAutor.al,ALB: FILM AUTOR,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95991
+ext,ALB: FILM DRAMA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95992
+FilmKomedi.al,ALB: FILM KOMEDI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95993
+FilmThriller.al,ALB: FILM THRILLER,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95994
+ext,ALB: FILM FAMILY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95995
+ext,ALB: FILM STINET,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95996
+ext,ALB: FILM T HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95997
+ext,ALB: TDC,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95998
+ext,ALB: TDC 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/95999
+ext,ALB: EURO FILM,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96000
+ext,ALB: EURO FILM 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96001
+ext,ALB: EURO FILM 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96002
+ext,ALB: EURO FILM 4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96003
+ext,ALB: EURO FILM 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96004
+ext,ALB: DIGI GOLD FAMILY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96012
+ext,===== TRING FILM =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96013
+ext,ALB: TRING ACTION,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96014
+TringFantazi.al,ALB: TRING FANTASY,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96015
+TringLife.al,ALB: TRING LIFE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96016
+TringComedy.al,ALB: TRING COMEDY,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96017
+TringSuper.al,ALB: TRING SUPER,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96018
+ext,ALB: TRING 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96019
+Smile.al,ALB: TRING SMILE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96020
+TRINGSHQIPI.al,ALB: TRING SHQIP,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96021
+ext,ALB: TRING JOLLY,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96022
+ext,ALB: LIVING HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96023
+ext,ALB: FOX CHANNEL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96024
+FoxLife.al,ALB: FOX LIFE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96025
+ext,ALB: KANAL D DRAMA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96027
+ext,===== Q PREMIERE FILM =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96028
+ext,ALB: Q AKSION HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96029
+ext,ALB: Q CINEMA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96030
+ext,ALB: Q FAMILY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96031
+ext,ALB: Q FILM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96032
+ext,ALB: Q FANTASY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96033
+ext,ALB: Q KOMEDI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96034
+ext,ALB: Q HINDI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96035
+ext,ALB: Q DRAMA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96036
+ext,ALB: Q WESTERN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96037
+ext,ALB: Q SERIAL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96038
+ext,ALB: Q QESHU HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96039
+ext,ALB: Q HUMOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96040
+ext,ALB: Q STUPCAT HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96041
+ext,ALB: Q HORROR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96042
+ext,ALB: TV PLISI ACTION HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96043
+ext,ALB: TV PLISI COMEDY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96044
+ext,ALB: TV PLISI FANTASY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96045
+ext,ALB: TV PLISI HORROR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96046
+ext,ALB: TV PLISI THRILLER HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96047
+ext,ALB: TV PLISI HUMOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96048
+ext,===== X FILM =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96049
+ext,ALB: X PREMIUM 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96051
+ext,ALB: X PREMIUM 4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96053
+ext,ALB: X HUMOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96064
+ext,===== KUJTESA FILM =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96065
+ext,ALB: FILMBOX PREMIUM,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96066
+ext,ALB: FILMBOX ARTHOUSE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96067
+ext,ALB: FILMBOX EXTRA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96068
+ext,ALB: FILMBOX PLUS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96069
+ext,ALB: ART KINO 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96070
+ext,ALB: ART KINO 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96071
+ext,ALB: ART KINO 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96072
+ext,ALB: ART EPISODE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96073
+ext,ALB: ART PRIME HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96074
+ext,ALB: FIRST ACTION HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96075
+ext,ALB: FIRST COMEDY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96076
+ext,ALB: FIRST DRAME HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96077
+ext,ALB: FIRST FAMILY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96078
+ext,ALB: FIRST THRILLER HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96079
+ext,===== DOKUMENTARE =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96080
+EXPShkence.al,ALB: EXPLORER SHKENCE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96081
+ext,ALB: EXPLORER NATYRA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96082
+ext,ALB: EXPLORER HISTORI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96083
+T-Hist.al,ALB: TRING HISTORY,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96084
+TringPlanet.al,ALB: TRING PLANET,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96085
+TringWorld.al,ALB: TRING WORLD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96086
+ext,ALB: SKY PLANET,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96090
+ext,ALB: SKY SHKENCE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96091
+ext,ALB: DISCOVERY TURBO EXTRA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96092
+ext,ALB: DISCOVERY SCIENCE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96093
+ext,ALB: DISCOVERY CHANNEL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96094
+ext,ALB: NATIONAL GEOGRAPHIC,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96095
+ext,ALB: 24 KITCHEN,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96098
+ext,===== MUSIC =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96100
+ext,ALB: RTV ILIRIDA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/144818
+ext,ALB: MY MUSIC HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96101
+ext,ALB: Q FOLK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96102
+ext,ALB: Q QIFTELI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96103
+ext,ALB: TV PLISI QIFTELI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96107
+ext,ALB: RTV21 POPULLORE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96108
+ext,ALB: Q JETA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96109
+ext,ALB: SYRI BLU MUSIC HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96110
+ext,ALB: SYRI TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/111246
+ext,ALB: TV OPOJA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96111
+ext,ALB: ZICO TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96112
+ext,ALB: A-MOL TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96113
+ext,ALB: TV PLISI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96114
+ext,ALB: TOP ESTRADA MUSIC HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96115
+ext,ALB: ALB,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96116
+ext,ALB: TV ZJARR,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96117
+ext,ALB: SKY MUSIC HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96118
+ext,ALB:  ASHKALI ISLAM,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96119
+ext,ALB: ELRODI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96121
+FolkPlus.al,ALB: FOLK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96122
+ext,ALB: FOLK+,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96123
+ext,===== SUPER SPORTS =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96124
+ext,ALB: SUPER SPORT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96125
+ext,ALB: SUPER SPORT 1 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96126
+ext,ALB: SUPER SPORT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96127
+ext,ALB: SUPER SPORT 2 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96128
+ext,ALB: SUPER SPORT 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96129
+ext,ALB: SUPER SPORT 3 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96130
+ext,ALB: SUPER SPORT 4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96131
+ext,ALB: SUPER SPORT 4 4K (ONLY MATCH TIME),http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96132
+ext,ALB: SUPER SPORT 5 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96133
+ext,ALB: SUPER SPORT 5 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96134
+ext,ALB: SUPER SPORT 6 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96135
+ext,ALB: SUPER SPORT 6 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96136
+ext,ALB: SUPER SPORT 7 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96137
+ext,ALB: SUPER SPORT 7 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96138
+ext,ALB: SUPER SPORT KOSOVO 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/144814
+ext,ALB: SUPER SPORT KOSOVO 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/144815
+ext,===== TRING SPORTS =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96139
+SuperSportNews.al,ALB: TRING SPORT NEWS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96140
+ext,ALB: TRING SPORT NEWS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96141
+ext,ALB: TRING SPORT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96142
+ext,ALB: TRING SPORT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96143
+ext,ALB: TRING SPORT 3 HD (ONLY MATCH TIME),http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96144
+ext,ALB: TRING SPORT 4 HD (ONLY MATCH TIME),http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96145
+ext,===== KUJTESA SPORT =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96146
+ext,ALB: K SPORT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96147
+ext,ALB: K SPORT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96148
+ext,ALB: K SPORT 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96149
+ext,ALB: K SPORT 4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96150
+ext,ALB: K SPORT 5 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96151
+ext,==== ART MOTION SPORT =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96152
+ext,ALB: ART SPORT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96153
+ext,ALB: ART SPORT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96154
+ext,ALB: ART SPORT 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96155
+ext,===== ISLAM =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96158
+ext,ALB: ALB MUSLIM,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/121869
+ext,ALB: ISLAM CHANNEL 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96159
+ext,ALB: ISLAM CHANNEL 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96160
+ext,ALB: ISLAM CHANNEL 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96161
+ext,ALB: RTV PENDIMI TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96164
+ext,ALB: PEACE TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96165
+ext,ALB: RTV ISLAM,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/144816
+ext,ALB: RTSH SHKOLLE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/144817
+
+
+group,EU TURKISH
+ext,===== TR TURKIYE =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98928
+ext,TR: CORONA VIRUS INFO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98929
+TRT1.tr,TR: TRT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98930
+ext,TR: TRT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98931
+ShowTV.tr,TR: SHOW HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98932
+KanalD.tr,TR: KANAL D HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98933
+ATV.tr,TR: ATV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98934
+StarHD.tr,TR: STAR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98935
+Fox.tr,TR: FOX HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98936
+ext,TR: BEYAZ HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98937
+TV8.tr,TR: TV 8 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98938
+ext,TR: TV 8.5 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98939
+Kanal7.tr,TR: KANAL 7 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98940
+ext,TR: TRT 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98941
+ext,TR: TRT 1 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98942
+ext,TR: TRT 2 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98943
+ext,TR: SHOW UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98944
+ext,TR: KANAL D UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98945
+ext,TR: ATV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98946
+ext,TR: STAR UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98947
+ext,TR: FOX UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98948
+ext,TR: BEYAZ UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98949
+ext,TR: TV 8 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98950
+ext,TR: TV 8.5 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98951
+ext,TR: KANAL 7 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98952
+ext,TR: 360 TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98953
+ext,TR: DMAX UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98954
+ext,TR: A2 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98955
+ext,TR: TEVE 2 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98956
+ext,TR: SHOW MAX,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98957
+ext,TR: YABAN TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98958
+ext,TR:  HRT AKDENIZ TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98959
+ext,===== TR HABERLER =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98960
+ext,TR: TRT HABER UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98961
+ext,TR: CNN TURK UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98962
+ext,TR: NTV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98963
+ext,TR: 24 HABER UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98964
+ext,TR: HABER GLOBAL UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98965
+ext,TR: EKO TURK TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98966
+ext,TR: TV NET UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98967
+ext,TR: ULKE TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98968
+ext,TR: A HABER UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98969
+ext,TR: AKIT TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98970
+ext,TR: TV 100 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98971
+ext,TR: KOY TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98972
+ext,TR: BLOOMBERG HT UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98973
+ext,TR: A PARA UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98974
+ext,===== DINI =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116228
+ext,TR: TRT WORLD UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98975
+ext,TR: A NEWS UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98976
+UlusalKanal.tr,TR: ULUSAL KANAL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98977
+HalkTV.tr,TR: HALK TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98978
+TGRTHaber.tr,TR: TGRT HABER,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98979
+ext,TR: TELE 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98980
+ext,TR: UZAY HABER,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98981
+KanalB.tr,TR: KANAL B,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98982
+ext,TR: KRT UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98983
+ext,TR: HABER TURK UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98984
+ext,TR: YOL TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98985
+ext,TR: TV 100 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98987
+ext,TR: ARTI TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98988
+ext,TR: MC EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98989
+ext,TR: CAN TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98990
+ext,===== TR BELGESELLER =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98991
+ext,TR: TRT BELGESEL UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98992
+TGRTHaber.tr,TR: TGRT BELGESEL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98993
+Discovery.tr,TR: DISCOVERY CHANNEL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98994
+DiscoveryScience.tr,TR: DISCOVERY SCIENCE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98995
+ext,TR: NGC HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98996
+ext,TR: NGC WILD HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98997
+History.tr,TR: HISTORY CHANNEL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98999
+ext,TR: ANIMAL PLANET HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99000
+ext,TR: TLC UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99001
+ext,TR: BEIN GURME HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99002
+IZTV.tr,TR: BEIN IZ HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99003
+24Kitchen.tr,TR: 24 KITCHEN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99004
+ext,TR: BBC EARTH HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99005
+ext,TR: DA VINCI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99007
+ViasatHistory.tr,TR: VIASAT HISTORY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99008
+ext,TR: OUTDOOR SMART HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99009
+ext,TR: DISCOWERY IDX HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116231
+DiscoveryShowcaseHD.tr,TR: DISCOVERY SHOWCASE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99012
+ext,TR: FAST FUN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99016
+ext,TR: D MAX HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99018
+ext,===== TR COCUKLAR =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99019
+ext,TR: TRT COCUK UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99020
+MinikaGo.tr,TR: MINIKA GO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99021
+MinikaCocuk.tr,TR: MINIKA COCUK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99022
+ext,TR: NICK JR,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99023
+NickelodeonHD.tr,TR: NICKELODEON HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99024
+DisneyXD.tr,TR:  DISNEY XD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99025
+DisneyJunior.tr,TR:  DISNEY JR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99026
+DisneyChannel.tr,TR: DISNEY CHANNEL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99027
+CartoonNetwork.tr,TR: CARTOON NETWORK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99028
+ext,TR: SMART COCUK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99029
+Boomerang.tr,TR: BOOMERANG HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99030
+BabyTV.tr,TR: BABY TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99031
+ext,TR: NILOYA TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99034
+ext,TR: TRT EBA TV HD ILKOKUL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99037
+ext,TR: TRT EBA TV HD ORTAOKUL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99038
+ext,TR: TRT EBA TV HD LISE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99039
+ext,===== TR MUZIK =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99040
+ext,TR: TRT MUZIK UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99041
+ext,TR: NR 1 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99042
+ext,TR: NR 1 TURK UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99043
+ext,TR: KRAL TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99044
+ext,TR: KRAL POP HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99045
+ext,TR: POWER UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99047
+ext,TR: POWER TURK UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99048
+DreamTV.tr,TR: DREAM TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99049
+DreamTurk.tr,TR: DREAM TURK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99050
+ext,TR: VATAN TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99051
+ext,TR: MAVI KARADENIZ TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99052
+ext,===== TR AVRUPA =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99053
+ext,TR: ATV EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99054
+ext,TR: EURO D EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99055
+ext,TR: EURO STAR EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99056
+ext,TR: KANAL 7 EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99057
+ext,TR: TV 8 INT EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99058
+ext,TR: SHOW TURK EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99059
+TGRTHaber.tr,TR: TGRT EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99060
+ext,TR: KANAL AVRUPA EU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99061
+ext,===== TR DGER =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99062
+ext,TR: DIYANET TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99063
+ext,TR: TRT TURK UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99064
+ext,TR: TRT AVAZ UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99065
+ext,TR: BENGU TURK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99066
+ext,TR: CEM TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99067
+ext,TR: KON TV KONYA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99069
+ext,TR: KANAL 42 KONYA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99070
+ext,TR: UCAN KUS TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99071
+MeltemTv.tr,TR: MELTEM TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99072
+ext,TR: TV 4 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99073
+ext,TR: TV 5,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99074
+ext,TR: AKILLI TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99075
+ext,TR: ARTI TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99076
+ext,TR: KUDUS TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99077
+ext,TR: MILYON TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99078
+ext,TR: TV KAYSERI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99079
+ext,TR: TV 1 KAYSERI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99080
+ext,TR: ALTAS TV ORDU,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99081
+ext,TR: CAY TV RIZE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99082
+ext,TR: CIFTCI TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99083
+ext,TR: DRT DENIZLI TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99084
+ext,TR: REHBER TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99085
+ext,TR: KANAL FIRAT ELAZIG,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99086
+ext,TR: KANAL URFA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99087
+ext,TR: PAMUKKALE TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99088
+ext,TR: KANAL 3 ISPARTA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99089
+ext,TR: KANAL V ANTALYA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99090
+ext,TR: KOZA TV ADANA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99091
+ext,TR: VIZYON 58 SIVAS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99093
+ext,TR: TURKMENELI TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99094
+ext,TR: TEK RUMELI TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99095
+ext,TR: GTV TV SANLIURFA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99096
+ext,TR: KENT TURK TV KAYSERA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99097
+ext,TR: TVDEN AYDIN,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99098
+ext,TR: TVO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99099
+ext,TR: KANAL 32 ISPARTA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99100
+ext,TR: BRT 1 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99101
+ext,TR: BRT 2 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99102
+ext,TR: KIBRIS TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99103
+ext,TR: KIBRIS TV ADA,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99104
+ext,TR: KANAL T KIBRIS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99106
+ext,TR: KIBRIS GENC TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99107
+ext,TR: LALEGUL TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99108
+ext,TR: SEMERKAND TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99109
+ext,TR: DOST TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99110
+ext,TR: AL QURAN TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99111
+ext,TR: KABE TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99112
+ext,TR:  SRT SIVAS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99114
+ext,TR: AVA TV UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99115
+ext,===== TR FILMLER =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99116
+ext,TR: MOVIE PREMIUM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99117
+ext,TR: MOVIE PREMIUM 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99118
+ext,TR: MOVIE PLATIN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99119
+ext,TR: MOVIE PLATIN 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99120
+ext,TR: MOVIE FAMILY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99121
+ext,TR: MOVIE CLASSIC HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99124
+ext,TR: MOVIE ACTION HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99125
+ext,TR: MOVIE TURK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99126
+DiziPremiumHD.tr,TR: DiZi PREMIUM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99127
+ext,TR: DIZISMART MAX HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99128
+FX.tr,TR: FX HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99129
+ext,===== TR BEIN MOVIES =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99133
+ext,TR: BEIN MOVIES ACTION HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99134
+ext,TR: BEIN MOVIES ACTION 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99135
+ext,TR: BEIN MOVIES FAMILY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99136
+ext,TR: BEIN MOVIES PREMIER HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99137
+ext,TR: BEIN MOVIES PREMIER 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99138
+ext,TR: BEIN MOVIES STARS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99139
+ext,TR: BEIN MOVIES TURK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99140
+ext,TR: BEIN SERIES COMEDY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99141
+ext,TR: BEIN SERIES DRAMA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99142
+ext,TR: BEIN SERIES SCI-FI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99143
+ext,TR: BEIN SERIES VICE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99144
+ext,TR: BEIN BOX OFFICE 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99145
+ext,TR: BEIN BOX OFFICE 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99146
+ext,TR: BEIN BOX OFFICE 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99147
+ext,===== JUMBO MOVIES =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116232
+ext,TR: JUMBOTV MACERA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116233
+ext,TR: JUMBOTV KORKU HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116234
+ext,TR: JUMBOTV KOMEDI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116235
+ext,TR: JUMBOTV GERILIM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116236
+ext,TR: JUMBOTV FANTASTIK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116237
+ext,TR: JUMBOTV DRAM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116238
+ext,TR: JUMBOTV COCUK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116239
+ext,TR: JUMBOTV BIYOGRAFI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116240
+ext,TR: JUMBOTV BILIM-KURGU HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116241
+ext,TR: JUMBOTV AKSIYON HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116242
+ext,TR: JUMBOTV TURK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116243
+ext,TR: JUMBOTV YESILCAM HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116244
+ext,TR: JUMBOTV SAVAS HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116245
+ext,TR: JUMBOTV SPOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116246
+ext,TR: JUMBOTV WESTERN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116247
+ext,===== TR LOCA MOVIES =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99148
+ext,TR: LOCA 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116248
+ext,TR: LOCA 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116249
+ext,TR: LOCA 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116250
+ext,TR: MEDOTV MIX 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116251
+ext,TR: MEDOTV MIX 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116252
+ext,TR: MEDOTV MIX 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116253
+ext,TR: MEDOTV MIX 4,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116254
+ext,TR: MEDOTV MIX 5,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116255
+ext,TR: MEDOTV MIX 6,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116256
+ext,TR: MEDOTV MIX 7,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116257
+ext,TR: MEDOTV MIX 10,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116258
+ext,TR: MEDOTV KORKU 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116259
+ext,TR: MEDOTV KOMEDI 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116260
+ext,TR: MEDOTV DRAMA 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116261
+ext,TR: MEDOTV WESTERN,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116262
+ext,TR: MEDOTV BILIMKURGU 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116263
+ext,TR: MEDOTV ANIMASYON 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116264
+ext,TR: MEDOTV AKSIYON 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116265
+ext,TR: MEDOTV AKSIYON 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116266
+ext,TR: MEDOTV AKSIYON 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116267
+ext,TR: MEDOTV AKSIYON 4,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116268
+ext,TR: MEDOTV TURK SINEMA 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116269
+ext,TR: MEDOTV TURK SINEMA 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116270
+ext,TR: MEDOTV TURK SINEMA 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116271
+ext,TR: MEDOTV TURK SINEMA 4,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116272
+ext,TR: MEDOTV TURK SINEMA 5,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116273
+ext,TR: YESIL SINEMA TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116274
+ext,TR: ENO TURK 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116275
+ext,TR: METROPOL NETFLIX,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99150
+ext,TR: METROPOL KUKULI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99151
+ext,TR: METROPOL KARE,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99152
+ext,TR: METROPOL AKILLI TAVSAN MOMO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99154
+ext,TR: ELIT YESILCAM   3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99155
+ext,TR: ELIT SMART TURK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99156
+ext,TR: ELIT SMART PLATIN HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99157
+ext,TR: ELIT SMART FEST HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99159
+ext,TR: ELIT SMART FAMILY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99160
+ext,TR: ELIT SINEMA YERLI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99162
+ext,TR: ELIT SINEMA YERLI 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99163
+ext,TR: ELIT SINEMA KOMEDI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99166
+ext,TR: ELIT SINEMA KOMEDI 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99167
+ext,TR: ELIT SINEMA AKSIYON HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99168
+ext,TR: ELIT SINEMA AKSIYON 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99169
+ext,TR: ELIT SINEMA AILE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99170
+ext,TR: ELIT SINEMA AILE 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99171
+ext,TR: ELIT POP,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99172
+ext,TR: ELIT NILOYA TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99173
+ext,TR: ELIT NETFLIX 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99174
+ext,TR: ELIT NETFLIX 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99175
+ext,TR: ELIT NETFLIX 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99176
+ext,TR: ELIT MOVIES PREMIER HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99177
+ext,TR: ELIT MOVIES PREMIER 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99178
+ext,TR: ELIT MOVIES FESTIVAL HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99179
+ext,TR: ELIT MOVIES FAMILIY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99180
+ext,TR: ELIT MASA ILE KOCA AYI,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99181
+ext,TR: ELIT KEMAL SUNAL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99182
+ext,TR: ELIT HD COCUK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99183
+ext,TR: ELIT HD ANIMASYON 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99184
+ext,TR: ELIT HD ANIMASYON 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99185
+ext,TR: ELIT HD ANIMASYON 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99186
+ext,TR: ELIT ARABESK,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99190
+ext,TR: ELIT ANKARA  HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99191
+ext,TR: ELIT AKILLI TAVSAN MOMO,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99192
+ext,TR: BOSS MOVIES 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116276
+ext,TR: BOSS MOVIES 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116277
+ext,TR: BOSS MOVIES 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116278
+ext,TR: BOSS MOVIES 4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116279
+ext,TR: BOSS MOVIES 5 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116280
+ext,TR: BOSS MOVIES 6 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116281
+ext,TR: BOSS MOVIES 7 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116282
+ext,TR: BOSS MOVIES 8 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116283
+ext,TR: BOSS MOVIES 9 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116284
+ext,TR: BOSS MOVIES 10 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116285
+ext,TR: BOSS MOVIES KEMAL SUNAL,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116286
+ext,TR: ENO ANIMASYON,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116287
+ext,TR: ENO WESTERN,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116288
+ext,TR: ENO VIZYON 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116289
+ext,TR: ENO VIZYON 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116290
+ext,TR: ENO VIZYON 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116291
+ext,TR: ENO VIZYON 4,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116292
+ext,TR: ENO VIZYON 5,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116293
+ext,TR: ENO VIZYON 6,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116294
+ext,TR: ENO VIZYON 7,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116295
+ext,TR: ENO VIZYON 8,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116296
+ext,TR: ENO VIZYON 9,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116297
+ext,TR: ENO VIZYON 10,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116298
+ext,TR: ENO VIZYON 11,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116299
+ext,TR: ENO VIZYON 12,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116300
+ext,TR: ENO VIZYON 13,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116301
+ext,TR: ENO VIZYON 14,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116302
+ext,TR: ENO VIZYON 15,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116303
+ext,===== TR BLACK MOVIES =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99193
+ext,TR: BLACK TV 4K HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99194
+ext,TR: BLACK TV ACTION HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99195
+ext,TR: BLACK TV COMEDY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99198
+ext,TR: BLACK TV LOVE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99199
+ext,TR: BLACK TV OSCAR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99200
+ext,TR: BLACK TV PREMIER HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99201
+ext,TR: BLACK TV TURK HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99202
+ext,TR: BLACK TV VIZYON HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99203
+ext,TR: BLACK TV VIZYON 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99204
+ext,TR: BLACK TV DOCUMENTARY HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99205
+ext,TR: BLACK TV DRAMA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99206
+ext,TR: BLACK TV HORROR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99207
+ext,TR: BLACK TV WEST HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99208
+ext,===== TR SINEMA MOVIE =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99209
+ext,TR: SINEMA TV YERLI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99210
+ext,TR: SINEMA TV YERLI 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99211
+ext,TR: SINEMA TV KOMEDI HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99212
+ext,TR: SINEMA TV KOMEDI 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99213
+ext,TR: SINEMA TV HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99214
+ext,TR: SINEMA TV AILE HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99216
+ext,TR: SINEMA TV AILE 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99217
+ext,TR: SINEMA TV ACTION HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99218
+ext,TR: BLUMAX HD KEMAL SUNAL 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116304
+ext,TR-4K: BLUMAX HD KEMAL SUNAL 1,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116305
+ext,TR: BLUMAX  HD KEMAL SUNAL 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116306
+ext,TR-4K: BLUMAX HD KEMAL SUNAL 2,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116307
+ext,TR: BLUMAX  HD KEMAL SUNAL 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116308
+ext,TR-4K: BLUMAX HD KEMAL SUNAL 3,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116309
+ext,TR-4K: BLUMAX HD KEMAL SUNAL 4,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116310
+ext,TR: BLUMAX HD KEMAL SUNAL 5 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116311
+ext,TR-4K: BLUMAX HD KEMAL SUNAL 5,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116312
+ext,TR-4K: BLUMAX HD KEMAL SUNAL 6,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116313
+ext,TR: ELIT SINEMA AKSIYON 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99219
+ext,TR: KEMAL SUNAL TV 4K,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99220
+ext,===== TR SPOR =====,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99221
+ext,TR EXXEN SPORT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/143898
+ext,TR EXXEN SPORT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/143899
+ext,TR EXXEN SPORT 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/143900
+ext,TR: BEIN SPORTS 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99222
+ext,TR: BEIN SPORTS 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99223
+ext,TR: BEIN SPORTS 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99224
+ext,TR: BEIN SPORTS 4 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99225
+LIGTV.tr,TR: BEIN SPORTS 1 SD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116314
+ext,TR: BEIN SPORTS 1 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99226
+ext,TR: BEIN SPORTS 2 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99227
+ext,TR: BEIN SPORTS 3 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99228
+ext,TR: BEIN SPORTS 4 UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99229
+LIGTV.tr,TR: BEIN SPORTS 1 HD+,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116315
+ext,TR: BEIN MAX 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99230
+ext,TR: BEIN MAX 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99231
+ext,TR: BEIN SPORTS HABER UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99232
+ext,TR: SPOR SMART HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99233
+SportsTV.tr,TR: SPORTS TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99234
+ext,TR: SARAN SPORT HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99235
+ext,TR: SARAN SPORT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99236
+ext,TR: TIVIBU SPOR UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99237
+ext,TR: TIVIBU SPOR 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99238
+ext,TR: TIVIBU SPOR 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99239
+ext,TR: TIVIBU SPOR 3 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99240
+ext,TR: TAY TV HD PLUS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99241
+TRT3.tr,TR: TRT SPOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99242
+ext,TR: TRT SPOR 2 HD+,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116316
+ext,TR: TRT SPOR UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99243
+ASpor.tr,TR: A SPOR HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99244
+ext,TR: A SPOR UHD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99245
+ext,TR: TRT SPOR 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99246
+GALATASARAYTV.tr,TR: GS TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99247
+ext,TR: FB TV HD PLUS,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99248
+BJKTV.tr,TR: BJK TV,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99249
+Eurosport.tr,TR: EUROSPORT 1 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99250
+Eurosport2.tr,TR: EUROSPORT 2 HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99251
+ext,TR: NBA HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99253
+ext,TR: FIGHT BOX HD,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99254
+ext,TR: TRT 4K+,http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/116227
+
+
+group,ALBANIA VOD
+avi,4 latas (2019),http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124537.mp4
+avi,86 Melrose Avenue  (2021),http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124538.mp4
+avi,Airplane Mode (2019),http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124539.mp4
+avi,AIW Ain\'t Nothing But A Gangsta Party (2018),http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124540.mp4
+avi,All About Who You Know (2019),http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124542.mp4
+avi,All You Need is Crime (2019),http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124543.mp4
+avi,A Regular Woman (2019),http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124544.mp4
+avi,A Writers Odyssey,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124545.mp4
+avi,Being Frank,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124546.mp4
+avi,Big Time Adolescence,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124547.mp4
+avi,Captive State,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124548.mp4
+avi,Clover,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124549.mp4
+avi,Come Away,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124550.mp4
+avi,Dating Amber,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124551.mp4
+avi,Demon Slayer Kimetsu no Yaiba The Movie Mugen Train,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124552.mp4
+avi,Desperados,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124553.mp4
+avi,Dr Bird s Advice for Sad Poets,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124554.mp4
+avi,Every Time I Die,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124555.mp4
+avi,Felix and the Treasure of Morgaa,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124556.mp4
+avi,Fighting With My Family,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124557.mp4
+avi,For the Sake of Vicious,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124558.mp4
+avi,Game of Assassins,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124559.mp4
+avi,Golden Arm,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124560.mp4
+avi,Grand Isle,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124561.mp4
+avi,Great White,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124562.mp4
+avi,Harmony,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124563.mp4
+avi,I Can Quit Whenever I Want,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124564.mp4
+avi,I Can Quit Whenever I Want 2 Masterclass,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124565.mp4
+avi,I Can Quit Whenever I Want 3 Ad Honorem,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124566.mp4
+avi,I Hate Kids,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124567.mp4
+avi,Impractical Jokers: The Movie,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124568.mp4
+avi,In the Earth,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124569.mp4
+avi,Iron Mask,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124570.mp4
+avi,Isi end Ossi,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124571.mp4
+avi,Jakob s Wife,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124572.mp4
+avi,Judy end Punch,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124573.mp4
+avi,Just a Breath Away,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124574.mp4
+avi,Khun Phaen Begins,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124575.mp4
+avi,Kill Ben Lyk,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124576.mp4
+avi,Late Night,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124577.mp4
+avi,Le Mac,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124578.mp4
+avi,Let It Snow,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124579.mp4
+avi,Lommbock,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124580.mp4
+avi,Lottery Ticket,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124581.mp4
+avi,Love Wedding Repeat,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124582.mp4
+avi,Mainstream,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124583.mp4
+avi,Maya the Bee The Golden Orb,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124584.mp4
+avi,Men in Black  International,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124585.mp4
+avi,Miss Bala,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124586.mp4
+avi,Mission Possible,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124587.mp4
+avi,Mongol The Rise of Genghis Khan,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124588.mp4
+avi,Monos,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124589.mp4
+avi,Mortal Kombat,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124590.mp4
+avi,Murder Bury Win,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124591.mp4
+avi,Murder Mystery,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124592.mp4
+avi,Night of the Sicario,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124593.mp4
+avi,Nobody,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124594.mp4
+avi,Noelle,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124595.mp4
+avi,Oldur Beni Sevgilim,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124596.mp4
+avi,Only the Animals,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124597.mp4
+avi,Oxygen,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124598.mp4
+avi,Paradise Hills,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124599.mp4
+avi,Plus One,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124600.mp4
+avi,Return of the Hero,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124601.mp4
+avi,Rich in Love,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124602.mp4
+avi,Ride or Die,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124603.mp4
+avi,Ride or Die,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124604.mp4
+avi,Rising High,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124605.mp4
+avi,Romance on the Menu,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124606.mp4
+avi,Russian Raid,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124607.mp4
+avi,Senior Moment,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124608.mp4
+avi,She was the Deputy s Wife,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124609.mp4
+avi,Sibel,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124610.mp4
+avi,Someone Great,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124611.mp4
+avi,Spontaneous,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124612.mp4
+avi,Stargate Origins Catherine,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124613.mp4
+avi,Stowaway,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124614.mp4
+avi,America\'s Sweethearts,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124615.mp4
+avi,The Beach Bum,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124616.mp4
+avi,The Boss s Daughter,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124617.mp4
+avi,The Comeback Trail,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124618.mp4
+avi,The Courier,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124619.mp4
+avi,The Cure,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124620.mp4
+avi,The Devil Below,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124621.mp4
+avi,The Dip Run,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124622.mp4
+avi,The Djinn,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124623.mp4
+avi,The Jesus Rolls,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124624.mp4
+avi,The Knight of Shadows Between Yin and Yang,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124625.mp4
+avi,The Last Right,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124626.mp4
+avi,The Last Summer,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124627.mp4
+avi,The Laundromat,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124628.mp4
+avi,The Legend of Immortal Sword Cultivation,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124629.mp4
+avi,The Marksman,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124630.mp4
+avi,The Mitchells vs The Machines,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124631.mp4
+avi,The Paper Tigers,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124632.mp4
+avi,The Priest,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124633.mp4
+avi,The Sleepover,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124634.mp4
+avi,The Stonebreaker,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124635.mp4
+avi,The Virtuoso,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124636.mp4
+avi,The Whistlers,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124637.mp4
+avi,Things Heard end Seen,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124638.mp4
+avi,Thugs of Hindostan,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124639.mp4
+avi,Thunder Force,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124640.mp4
+avi,Time of Happiness,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124641.mp4
+avi,Tom Clancy\'s Without Remorse,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124642.mp4
+avi,Trigger Point,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124643.mp4
+avi,Valhalla Rising,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124644.mp4
+avi,Vanquish,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124645.mp4
+avi,Voyagers,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124646.mp4
+avi,Warpath,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124647.mp4
+avi,Wild Dog,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124648.mp4
+avi,Wrong Time,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124649.mp4
+avi,Yes,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/124651.mp4
+avi,After Earth,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125090.mp4
+avi,alice-in-wonderland-into-the-looking-glass,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125091.mp4
+avi,Ant-Man and the Wasp,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125092.mp4
+avi,Ant-Man,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125093.mp4
+avi,Aquaman,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125094.mp4
+avi,Avatar,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125095.mp4
+avi,Avengers: Infinity War,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125096.mp4
+avi,Batman v Superman: Dawn of Justice,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125097.mp4
+avi,Battleship,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125098.mp4
+avi,Beauty and the Beast,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125099.mp4
+avi,Black Panther,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125100.mp4
+avi,Blade: Trinity,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125101.mp4
+avi,Bright,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125102.mp4
+avi,Captain Marvel,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125103.mp4
+avi,Clash of the Titans,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125104.mp4
+avi,Code 8,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125105.mp4
+avi,Cosmic Sin,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125106.mp4
+avi,Doctor Strange,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125107.mp4
+avi,Dracula Untold,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125108.mp4
+avi,Dragonheart: Vengeance,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125109.mp4
+avi,Ender\'s Game,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125110.mp4
+avi,Fantastic Four: Rise of the Silver Surfer,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125111.mp4
+avi,Fantastic Four: Rise of the Silver Surfer,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125112.mp4
+avi,Gallowwalkers,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125113.mp4
+avi,Ghost Rider,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125114.mp4
+avi,Gods of Egypt,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125115.mp4
+avi,Godzilla vs. Kong,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125116.mp4
+avi,Green Book,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125117.mp4
+avi,Guardians of the Galaxy Vol. 2,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125118.mp4
+avi,Hancock,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125119.mp4
+avi,Hansel & Gretel: Witch Hunters,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125120.mp4
+avi,Hellboy II: The Golden Army,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125121.mp4
+avi,Hellboy,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125122.mp4
+avi,Frankenstein,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125123.mp4
+avi,Immortals,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125124.mp4
+avi,Jack the Giant Slayer,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125125.mp4
+avi,Jiu Jitsu,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125126.mp4
+avi,John Carter,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125127.mp4
+avi,Zack Snyder\'s Justice League,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125128.mp4
+avi,King Kong,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125129.mp4
+avi,Kong: Skull Island,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125130.mp4
+avi,The Legion,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125131.mp4
+avi,Maleficent: Mistress of Evil,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125132.mp4
+avi,Maleficent,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125133.mp4
+avi,Max Steel,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125134.mp4
+avi,Mortal Engines,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125135.mp4
+avi,Pirates of the Caribbean: At World\'s End,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125136.mp4
+avi,Pirates of the Caribbean: Dead Man\'s Chest,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125137.mp4
+avi,Pirates of the Caribbean: Dead Men Tell No Tales,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125138.mp4
+avi,Pirates of the Caribbean: On Stranger Tides,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125139.mp4
+avi,Pirates of the Caribbean: The Curse of the Black Pearl,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125140.mp4
+avi,Priest,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125141.mp4
+avi,Project X,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125142.mp4
+avi,Roald Dahl\'s The Witches,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125143.mp4
+avi,Shazam!,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125144.mp4
+avi,Solomon Kane,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125145.mp4
+avi,Star Wars: The Last Jedi,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125146.mp4
+avi,Teenage Mutant Ninja Turtles,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125147.mp4
+avi,The Chronicles of Narnia: The Voyage of the Dawn Treader,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125148.mp4
+avi,The Dark Tower,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125149.mp4
+avi,The Golden Compass,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125150.mp4
+avi,The Great Wall,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125151.mp4
+avi,The Incredible Hulk,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125152.mp4
+avi,The Mask,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125153.mp4
+avi,Maze Runner: The Death Cure,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125154.mp4
+avi,Rise of the Mummy,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125155.mp4
+avi,The Twilight Saga: Breaking Dawn - Part 1,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125156.mp4
+avi,The Twilight Saga: Breaking Dawn - Part 2,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125157.mp4
+avi,The Twilight Saga: Eclipse,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125158.mp4
+avi,The Twilight Saga: New Moon,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125159.mp4
+avi,Thor: The Dark World,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125160.mp4
+avi,Thor: Ragnarok,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125161.mp4
+avi,Twilight,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125162.mp4
+avi,Underworld: Awakening,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125163.mp4
+avi,Underworld: Awakening,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125164.mp4
+avi,Underworld: Blood Wars,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125165.mp4
+avi,Underworld: Evolution,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125166.mp4
+avi,Underworld: Rise of the Lycans,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125167.mp4
+avi,Underworld,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125168.mp4
+avi,Valerian and the City of a Thousand Planets,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125169.mp4
+avi,Van Helsing,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125170.mp4
+avi,Venom,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125171.mp4
+avi,Warcraft,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125172.mp4
+avi,Wonder Woman 1984,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125173.mp4
+avi,Wonder Woman 1984,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125174.mp4
+avi,Wrath of the Titans,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125175.mp4
+avi,Zack Snyder\'s Justice League,http://mitvpro.online:25461/movie/BBwJkdxLhDMRLcb/beaowBGKyshcMER/125176.mp4
